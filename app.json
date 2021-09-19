@@ -1,0 +1,14 @@
+{
+  "name": "Start on Heroku: Go",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/aizwellenstan/golang-docker-heroku",
+  "website": "http://github.com/aizwellenstan/golang-docker-heroku",
+  "repository": "http://github.com/aizwellenstan/golang-docker-heroku"
+}
